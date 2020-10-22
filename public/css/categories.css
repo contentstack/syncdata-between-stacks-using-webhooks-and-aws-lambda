@@ -1,0 +1,57 @@
+/* Styling for category section within your blog-list page
+-------------------------------------------------- */
+
+#mainCategory {
+    padding: 6px 0;
+    top:0px;
+    left:0px;
+    right:0px;
+    background-color: rgb(255, 255, 255);
+    z-index:999999;
+}
+
+#mainCategory ul {
+    text-align: center;
+    list-style:none;
+    padding:0;
+    margin:0;
+}
+
+#mainCategory ul li {
+    vertical-align: top;
+    display: inline-block;
+    /* if you need ie6/7 support */
+    *display: inline;
+    zoom: 1;
+    padding: 23px;
+    
+}
+
+#mainCategory a {
+    font-size:22px;
+    font-weight:bold;
+    float:left;
+    padding: 5px;
+    color:#999;
+    text-decoration: none;
+    cursor: pointer;
+   
+}
+
+.disabled{
+    pointer-events:none; 
+    opacity:0.6;  
+}
+
+#mainCategory a:hover {
+    background:#D9D9DA none;
+    color: rgb(163, 162, 162);
+    border-radius: 10%;
+}
+
+#mainCategory a.top span, #nav a.bottom span {
+    float:left;
+    width:16px;
+    height:16px;
+}
+

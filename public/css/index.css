@@ -1,0 +1,135 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+  }
+
+  /* index css  */
+
+  .bannerText{
+    color: aliceblue;
+  }
+.text-center{
+  height: 800px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}  
+
+.text-center .container{
+  margin-top: 150px;
+  background: rgba(0, 0, 0, 0.2);
+  color: rgb(248, 244, 244);
+  padding: 2rem;
+  
+}
+
+.testimonial-img{
+  height: 140px;
+  width: 140px;
+  border-radius: 50%;
+}
+
+/* Blog list css below */
+
+.text-center-blog{
+  height: 800px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.text-center-blog .container{
+  margin-top: 150px;
+  background: rgba(255, 255,255,0.2);
+  color: rgb(240, 229, 229);
+  padding: 2rem;
+  text-align: center;
+  
+}
+
+.post-data{
+  margin-bottom: 13px;
+}
+
+.text-muted{
+  color: aliceblue;
+}
+
+.center-info{
+  text-align: center;
+}
+
+.center-info p{
+  text-align: justify;
+  padding: 15px;
+
+}
+
+.center-info h1{
+  margin-bottom: 65px;
+  text-align: center;
+}
+
+
+  
+  /* MARKETING CONTENT
+  -------------------------------------------------- */
+  
+  /* Center align the text within the three columns below the carousel */
+  .marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  .marketing h2 {
+    font-weight: 400;
+  }
+  .marketing .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+  }
+  
+  
+  /* Featurettes
+  ------------------------- */
+  
+  .featurette-divider {
+    margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  }
+  
+  /* Thin out the marketing headings */
+  .featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -.05rem;
+  }
+  
+  
+  /* RESPONSIVE CSS
+  -------------------------------------------------- */
+  
+  @media (min-width: 40em) {
+    /* Bump up size of carousel content */
+    .carousel-caption p {
+      margin-bottom: 1.25rem;
+      font-size: 1.25rem;
+      line-height: 1.4;
+    }
+  
+    .featurette-heading {
+      font-size: 50px;
+    }
+  }
+  
+  @media (min-width: 62em) {
+    .featurette-heading {
+      margin-top: 7rem;
+    }
+  }
+
+

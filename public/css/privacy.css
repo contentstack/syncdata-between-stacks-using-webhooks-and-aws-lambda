@@ -1,0 +1,16 @@
+h3{
+    text-align: left;
+    margin-left: 14px;
+}
+
+.bannerNew{
+    color: white;
+    text-align: center;
+    margin-top:200px ;
+}
+
+.bannerNew > h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 4.3rem;
+}

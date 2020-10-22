@@ -1,0 +1,23 @@
+<!-- Privacy Page Template -->
+
+{% extends "pages/index.html" %} {% block content %}
+
+<main role="main">
+    <section class="jumbotron text-center" style="background-image: url({{privacyData.banner.image.url}});">
+        <div class="bannerNew">
+            <h1>{{privacyData.banner.heading}}</h1>
+        </div>
+    </section>
+    <div class="container marketing">
+        <hr class="featurette-divider" />
+        <div class="row">
+            <div class="center-info">
+                    {{privacyData.privacy_detail}}
+            </div>
+        </div>
+        <!-- /.row -->
+        <hr class="featurette-divider" />
+
+</main>
+
+{% endblock %}
