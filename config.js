@@ -5,7 +5,7 @@
  */
 
 module.exports = {
-  port: 4000,
+  port: 3000,
   apiKey: '', // your api key
   accessToken: '', // delivery token
   env: '', // publishing environment
