@@ -1,1 +1,47 @@
-{"blt95bf805e4d26ec36":{"title":"Footer section","url":"#","footer":"Copyright © 2020  Contentstack. All Rights Reserved.","cta":[{"title":"Privacy","href":"/privacy"}],"tags":[],"locale":"en-us","uid":"blt95bf805e4d26ec36","created_by":"blt828ab71437a69a50","updated_by":"blt828ab71437a69a50","created_at":"2020-08-18T15:27:43.615Z","updated_at":"2020-10-23T06:43:02.581Z","ACL":{},"_version":15,"_in_progress":false,"publish_details":[{"environment":"blt9d79782a77dfb5ff","locale":"en-us","time":"2020-10-23T06:43:04.823Z","user":"blt828ab71437a69a50","version":15}]},"blt246eb869b7bfb2f7":{"title":"Footer","url":"#","footer":"<p>Copyright © 2020 Contentstack. All Rights Reserved.</p>","cta":[{"title":"Privacy","href":"/privacy"}],"tags":[],"locale":"en-us","uid":"blt246eb869b7bfb2f7","created_by":"blt828ab71437a69a50","updated_by":"blt828ab71437a69a50","created_at":"2020-08-18T15:27:15.203Z","updated_at":"2020-08-18T15:27:15.203Z","ACL":{},"_version":1,"_in_progress":false,"publish_details":[]}}
+{
+    "blt30eedb09f799d25d": {
+        "title": "Footer",
+        "url": "#",
+        "footer": "Copyright © 2020 Contentstack. All Rights Reserved.",
+        "cta": [
+            {
+                "title": "Privacy",
+                "href": "/privacy"
+            }
+        ],
+        "tags": [],
+        "locale": "en-us",
+        "ACL": {},
+        "uid": "blt30eedb09f799d25d",
+        "_version": 2,
+        "_in_progress": false,
+        "publish_details": [
+            {
+                "environment": "blt9ea2ae45f269d1a1",
+                "locale": "en-us",
+                "time": "2020-10-23T07:41:42.726Z",
+                "user": "bltd5d70bb484fce3ae",
+                "version": 2
+            }
+        ]
+    },
+    "bltc512553d041c06b5": {
+        "title": "Footer section",
+        "url": "#",
+        "tags": [],
+        "locale": "en-us",
+        "ACL": {},
+        "uid": "bltc512553d041c06b5",
+        "_version": 1,
+        "_in_progress": false,
+        "publish_details": [
+            {
+                "environment": "blt9ea2ae45f269d1a1",
+                "locale": "en-us",
+                "time": "2020-10-23T07:41:03.325Z",
+                "user": "blt0d185e8a7e4ca67a",
+                "version": 1
+            }
+        ]
+    }
+}

@@ -6,16 +6,16 @@
 
 module.exports = {
   port: 3000,
-  apiKey: '', // your api key
-  accessToken: '', // delivery token
-  env: '', // publishing environment
+  apiKey: 'blt7e719846a089f541', // your api key
+  accessToken: 'cs9edf60502d942aef200ce9c4', // delivery token
+  env: 'production', // publishing environment
   contentTypeUid: {
     /**
      * Below provide content-type uid's
      */
-    headerUid: '',
-    homeUid: '',
-    footerUid: '',
-    privacyUid: '',
+    headerUid: 'header',
+    homeUid: 'home',
+    footerUid: 'footer',
+    privacyUid: 'privacy_policy',
   },
 };
