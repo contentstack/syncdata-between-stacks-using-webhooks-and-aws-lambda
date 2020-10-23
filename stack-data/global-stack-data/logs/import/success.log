@@ -92,3 +92,50 @@
 {"level":"info","message":"\u001b[32mLabels have been imported successfully!\u001b[39m","timestamp":"2020-10-23T10:56:07.140Z"}
 {"level":"info","message":"\u001b[32mStack: blt43a6c66cf690e7ab has been imported succesfully!\u001b[39m","timestamp":"2020-10-23T10:56:07.140Z"}
 {"level":"info","message":"The log for this is stored at/home/abhishek/Pictures/Wallpapers/lala/syncdata-between-stacks-using-webhooks-and-aws-lambda/stack-data/global-stack-data/logs/import","timestamp":"2020-10-23T10:56:07.140Z"}
+{"level":"info","message":"Migrating languages","timestamp":"2020-10-23T11:28:26.505Z"}
+{"level":"info","message":"\u001b[32mLanguages have been imported successfully!\u001b[39m","timestamp":"2020-10-23T11:28:26.507Z"}
+{"level":"info","message":"Migrating environment","timestamp":"2020-10-23T11:28:26.508Z"}
+{"level":"info","message":"\u001b[32mEnvironments have been imported successfully!\u001b[39m","timestamp":"2020-10-23T11:28:27.917Z"}
+{"level":"info","message":"\u001b[37mMigrating extensions\u001b[39m","timestamp":"2020-10-23T11:28:27.921Z"}
+{"level":"info","message":"\u001b[32mExtensions have been imported successfully!\u001b[39m","timestamp":"2020-10-23T11:28:30.009Z"}
+{"level":"info","message":"\u001b[37mMigrating webhooks\u001b[39m","timestamp":"2020-10-23T11:28:30.011Z"}
+{"level":"info","message":"\u001b[37mNo Webhooks Found\u001b[39m","timestamp":"2020-10-23T11:28:30.011Z"}
+{"level":"info","message":"\u001b[37mMigrating global-fields\u001b[39m","timestamp":"2020-10-23T11:28:30.012Z"}
+{"level":"info","message":"\u001b[37mNo globalfields Found\u001b[39m","timestamp":"2020-10-23T11:28:30.013Z"}
+{"level":"info","message":"Migrating assets","timestamp":"2020-10-23T11:28:30.015Z"}
+{"level":"info","message":"No folders were found at: /home/abhishek/_backup_276/assets/folders.json","timestamp":"2020-10-23T11:28:30.016Z"}
+{"level":"info","message":"\u001b[32mAsset blt0ff4714c81f57545 published successfully\u001b[39m","timestamp":"2020-10-23T11:28:34.160Z"}
+{"level":"info","message":"\u001b[32mAsset bltd9fb643b92a9644c published successfully\u001b[39m","timestamp":"2020-10-23T11:28:34.463Z"}
+{"level":"info","message":"Completed asset import of batch no: 1","timestamp":"2020-10-23T11:28:34.464Z"}
+{"level":"info","message":"\u001b[32mAsset blt481066d154a6cf19 published successfully\u001b[39m","timestamp":"2020-10-23T11:28:58.493Z"}
+{"level":"info","message":"Completed asset import of batch no: 3","timestamp":"2020-10-23T11:28:58.495Z"}
+{"level":"info","message":"\u001b[32mAsset bltc59cf7b209f09feb published successfully\u001b[39m","timestamp":"2020-10-23T11:29:02.210Z"}
+{"level":"info","message":"\u001b[32mAsset blt4d895a1ab1a43021 published successfully\u001b[39m","timestamp":"2020-10-23T11:29:03.851Z"}
+{"level":"info","message":"\u001b[32mAsset import completed successfully!\u001b[39m","timestamp":"2020-10-23T11:29:03.854Z"}
+{"level":"info","message":"Completed asset import of batch no: 2","timestamp":"2020-10-23T11:29:03.853Z"}
+{"level":"info","message":"Migrating contenttypes","timestamp":"2020-10-23T11:29:03.859Z"}
+{"level":"info","message":"privacy_policy was updated successfully!","timestamp":"2020-10-23T11:29:14.460Z"}
+{"level":"info","message":"footer was updated successfully!","timestamp":"2020-10-23T11:29:14.469Z"}
+{"level":"info","message":"header was updated successfully!","timestamp":"2020-10-23T11:29:14.547Z"}
+{"level":"info","message":"home was updated successfully!","timestamp":"2020-10-23T11:29:14.657Z"}
+{"level":"info","message":"Migrating entry","timestamp":"2020-10-23T11:29:14.681Z"}
+{"level":"info","message":"\u001b[32mContent types have been imported successfully!\u001b[39m","timestamp":"2020-10-23T11:29:14.658Z"}
+{"level":"info","message":"\u001b[32mEntry blt63b61a2b875b837c published successfully in footer content type\u001b[39m","timestamp":"2020-10-23T11:29:19.006Z"}
+{"level":"info","message":"Entries created successfully in footer content type in en-us locale!","timestamp":"2020-10-23T11:29:19.009Z"}
+{"level":"info","message":"\u001b[32mEntry bltadd4824ce6ca305e published successfully in privacy_policy content type\u001b[39m","timestamp":"2020-10-23T11:29:22.489Z"}
+{"level":"info","message":"Entries created successfully in privacy_policy content type in en-us locale!","timestamp":"2020-10-23T11:29:22.495Z"}
+{"level":"info","message":"\u001b[32mEntry blt6501d741eb3fa2b0 published successfully in home content type\u001b[39m","timestamp":"2020-10-23T11:29:26.790Z"}
+{"level":"info","message":"Entries created successfully in home content type in en-us locale!","timestamp":"2020-10-23T11:29:26.794Z"}
+{"level":"info","message":"\u001b[32mEntry blt9234600f8fc608eb published successfully in header content type\u001b[39m","timestamp":"2020-10-23T11:29:29.332Z"}
+{"level":"info","message":"Entries created successfully in header content type in en-us locale!","timestamp":"2020-10-23T11:29:29.335Z"}
+{"level":"info","message":"No entries without mapped uid found!","timestamp":"2020-10-23T11:29:29.336Z"}
+{"level":"info","message":"\u001b[32mEntries created successfully in 'en-us' language\u001b[39m","timestamp":"2020-10-23T11:29:29.336Z"}
+{"level":"info","message":"\u001b[32mImported entries in 'en-us' language successfully!\u001b[39m","timestamp":"2020-10-23T11:29:29.338Z"}
+{"level":"info","message":"Successfully imported 'en-us' entries!","timestamp":"2020-10-23T11:29:29.338Z"}
+{"level":"info","message":"Re-modified content type schemas to their original form!","timestamp":"2020-10-23T11:29:29.341Z"}
+{"level":"info","message":"\u001b[32mThe stack has been eradicated from bugged entries!\u001b[39m","timestamp":"2020-10-23T11:29:29.345Z"}
+{"level":"info","message":"\u001b[32mEntries have been imported successfully!\u001b[39m","timestamp":"2020-10-23T11:29:29.345Z"}
+{"level":"info","message":"\u001b[37mMigrating labels\u001b[39m","timestamp":"2020-10-23T11:29:29.348Z"}
+{"level":"info","message":"\u001b[32mLabels have been imported successfully!\u001b[39m","timestamp":"2020-10-23T11:29:29.349Z"}
+{"level":"info","message":"\u001b[32mStack: blt3c9f4d367bd0784e has been imported succesfully!\u001b[39m","timestamp":"2020-10-23T11:29:29.349Z"}
+{"level":"info","message":"The log for this is stored at/home/abhishek/Pictures/Wallpapers/nab/syncdata-between-stacks-using-webhooks-and-aws-lambda/stack-data/global-stack-data/logs/import","timestamp":"2020-10-23T11:29:29.350Z"}

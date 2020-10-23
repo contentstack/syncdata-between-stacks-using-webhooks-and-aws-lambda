@@ -1,0 +1,46 @@
+{"level":"info","message":"Migrating languages","timestamp":"2020-10-23T12:18:52.136Z"}
+{"level":"info","message":"\u001b[32mLanguages have been imported successfully!\u001b[39m","timestamp":"2020-10-23T12:18:52.138Z"}
+{"level":"info","message":"Migrating environment","timestamp":"2020-10-23T12:18:52.141Z"}
+{"level":"info","message":"\u001b[32mEnvironments have been imported successfully!\u001b[39m","timestamp":"2020-10-23T12:18:53.582Z"}
+{"level":"info","message":"\u001b[37mMigrating extensions\u001b[39m","timestamp":"2020-10-23T12:18:53.592Z"}
+{"level":"info","message":"\u001b[37mExtension: 'youtube' already exists\u001b[39m","timestamp":"2020-10-23T12:18:56.108Z"}
+{"level":"info","message":"\u001b[32mExtensions have been imported successfully!\u001b[39m","timestamp":"2020-10-23T12:18:56.110Z"}
+{"level":"info","message":"\u001b[37mMigrating webhooks\u001b[39m","timestamp":"2020-10-23T12:18:56.114Z"}
+{"level":"info","message":"\u001b[37mNo Webhooks Found\u001b[39m","timestamp":"2020-10-23T12:18:56.116Z"}
+{"level":"info","message":"\u001b[37mMigrating global-fields\u001b[39m","timestamp":"2020-10-23T12:18:56.127Z"}
+{"level":"info","message":"\u001b[37mNo globalfields Found\u001b[39m","timestamp":"2020-10-23T12:18:56.131Z"}
+{"level":"info","message":"Migrating assets","timestamp":"2020-10-23T12:18:56.141Z"}
+{"level":"info","message":"No folders were found at: /home/abhishek/_backup_335/assets/folders.json","timestamp":"2020-10-23T12:18:56.145Z"}
+{"level":"info","message":"\u001b[32mAsset bltd04e60c866f817dc published successfully\u001b[39m","timestamp":"2020-10-23T12:18:58.871Z"}
+{"level":"info","message":"\u001b[32mAsset bltab197dd2fd92033d published successfully\u001b[39m","timestamp":"2020-10-23T12:19:00.203Z"}
+{"level":"info","message":"Completed asset import of batch no: 1","timestamp":"2020-10-23T12:19:00.204Z"}
+{"level":"info","message":"\u001b[32mAsset bltff5125b0ab3f3284 published successfully\u001b[39m","timestamp":"2020-10-23T12:19:03.615Z"}
+{"level":"info","message":"\u001b[32mAsset blta75f1899c50c0b79 published successfully\u001b[39m","timestamp":"2020-10-23T12:19:03.996Z"}
+{"level":"info","message":"Completed asset import of batch no: 2","timestamp":"2020-10-23T12:19:03.998Z"}
+{"level":"info","message":"\u001b[32mAsset import completed successfully!\u001b[39m","timestamp":"2020-10-23T12:19:03.999Z"}
+{"level":"info","message":"Migrating contenttypes","timestamp":"2020-10-23T12:19:04.007Z"}
+{"level":"info","message":"privacy_policy was updated successfully!","timestamp":"2020-10-23T12:19:14.826Z"}
+{"level":"info","message":"home was updated successfully!","timestamp":"2020-10-23T12:19:16.141Z"}
+{"level":"info","message":"header was updated successfully!","timestamp":"2020-10-23T12:19:16.401Z"}
+{"level":"info","message":"footer was updated successfully!","timestamp":"2020-10-23T12:19:16.553Z"}
+{"level":"info","message":"Migrating entry","timestamp":"2020-10-23T12:19:16.582Z"}
+{"level":"info","message":"\u001b[32mContent types have been imported successfully!\u001b[39m","timestamp":"2020-10-23T12:19:16.555Z"}
+{"level":"info","message":"\u001b[32mEntry bltd736da8038b9752c published successfully in footer content type\u001b[39m","timestamp":"2020-10-23T12:19:18.759Z"}
+{"level":"info","message":"Entries created successfully in footer content type in en-us locale!","timestamp":"2020-10-23T12:19:18.763Z"}
+{"level":"info","message":"\u001b[32mEntry blte1bddfd7c8be98db published successfully in privacy_policy content type\u001b[39m","timestamp":"2020-10-23T12:19:21.096Z"}
+{"level":"info","message":"Entries created successfully in privacy_policy content type in en-us locale!","timestamp":"2020-10-23T12:19:21.099Z"}
+{"level":"info","message":"\u001b[32mEntry blt31d243cc4c0d3f43 published successfully in home content type\u001b[39m","timestamp":"2020-10-23T12:19:23.356Z"}
+{"level":"info","message":"Entries created successfully in home content type in en-us locale!","timestamp":"2020-10-23T12:19:23.358Z"}
+{"level":"info","message":"\u001b[32mEntry blt7ed2fcfed5b2928a published successfully in header content type\u001b[39m","timestamp":"2020-10-23T12:19:25.870Z"}
+{"level":"info","message":"Entries created successfully in header content type in en-us locale!","timestamp":"2020-10-23T12:19:25.874Z"}
+{"level":"info","message":"No entries without mapped uid found!","timestamp":"2020-10-23T12:19:25.876Z"}
+{"level":"info","message":"\u001b[32mEntries created successfully in 'en-us' language\u001b[39m","timestamp":"2020-10-23T12:19:25.875Z"}
+{"level":"info","message":"\u001b[32mImported entries in 'en-us' language successfully!\u001b[39m","timestamp":"2020-10-23T12:19:25.879Z"}
+{"level":"info","message":"Successfully imported 'en-us' entries!","timestamp":"2020-10-23T12:19:25.880Z"}
+{"level":"info","message":"Re-modified content type schemas to their original form!","timestamp":"2020-10-23T12:19:25.891Z"}
+{"level":"info","message":"\u001b[32mThe stack has been eradicated from bugged entries!\u001b[39m","timestamp":"2020-10-23T12:19:25.906Z"}
+{"level":"info","message":"\u001b[32mEntries have been imported successfully!\u001b[39m","timestamp":"2020-10-23T12:19:25.907Z"}
+{"level":"info","message":"\u001b[37mMigrating labels\u001b[39m","timestamp":"2020-10-23T12:19:25.911Z"}
+{"level":"info","message":"\u001b[32mLabels have been imported successfully!\u001b[39m","timestamp":"2020-10-23T12:19:25.912Z"}
+{"level":"info","message":"\u001b[32mStack: blt3b695b375889bf27 has been imported succesfully!\u001b[39m","timestamp":"2020-10-23T12:19:25.913Z"}
+{"level":"info","message":"The log for this is stored at/home/abhishek/Pictures/Wallpapers/nab/syncdata-between-stacks-using-webhooks-and-aws-lambda/stack-data/child-stack-A-data/logs/import","timestamp":"2020-10-23T12:19:25.913Z"}

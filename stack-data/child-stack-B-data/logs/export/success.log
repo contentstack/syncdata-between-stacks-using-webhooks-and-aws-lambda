@@ -1,30 +1,30 @@
-{"level":"info","message":"Starting assets export","timestamp":"2020-10-23T11:20:19.470Z"}
-{"level":"info","message":"Downloaded logo-hover.png: blt0889b00b59b244c6 successfully!","timestamp":"2020-10-23T11:20:24.627Z"}
-{"level":"info","message":"Downloaded variation_3.jpeg: blt6ee575bc908ec308 successfully!","timestamp":"2020-10-23T11:20:24.862Z"}
-{"level":"info","message":"Downloaded product-bg.png: bltb6b38c601d58908f successfully!","timestamp":"2020-10-23T11:20:24.986Z"}
-{"level":"info","message":"Downloaded photo-coffe.jpeg: bltf7ff7899b86448a9 successfully!","timestamp":"2020-10-23T11:20:26.087Z"}
-{"level":"info","message":"Batch no 1 of assets is complete","timestamp":"2020-10-23T11:20:26.090Z"}
-{"level":"info","message":"No folders were found in the stack!","timestamp":"2020-10-23T11:20:28.563Z"}
-{"level":"info","message":"\u001b[32mAsset export completed successfully\u001b[39m","timestamp":"2020-10-23T11:20:28.564Z"}
-{"level":"info","message":"Starting locale export","timestamp":"2020-10-23T11:20:28.567Z"}
-{"level":"info","message":"No locales, other than master-locale were found in the Stack","timestamp":"2020-10-23T11:20:29.798Z"}
-{"level":"info","message":"Starting environment export","timestamp":"2020-10-23T11:20:29.802Z"}
-{"level":"info","message":"\u001b[32mAll the environments have been exported successfully\u001b[39m","timestamp":"2020-10-23T11:20:31.057Z"}
-{"level":"info","message":"Starting extension export","timestamp":"2020-10-23T11:20:31.060Z"}
-{"level":"info","message":"\u001b[32mAll the extensions have been exported successfully\u001b[39m","timestamp":"2020-10-23T11:20:32.258Z"}
-{"level":"info","message":"Starting webhooks export","timestamp":"2020-10-23T11:20:32.260Z"}
-{"level":"info","message":"No webhooks were found in the Stack","timestamp":"2020-10-23T11:20:33.384Z"}
-{"level":"info","message":"Starting Global Fields export","timestamp":"2020-10-23T11:20:33.387Z"}
-{"level":"info","message":"No Global Fields were found in the Stack","timestamp":"2020-10-23T11:20:34.509Z"}
-{"level":"info","message":"Starting content type export","timestamp":"2020-10-23T11:20:34.511Z"}
-{"level":"info","message":"\u001b[32mContent type export completed successfully\u001b[39m","timestamp":"2020-10-23T11:20:35.848Z"}
-{"level":"info","message":"Starting entry migration","timestamp":"2020-10-23T11:20:35.849Z"}
-{"level":"info","message":"Completed exporting privacy_policy content type's entries in en-us locale","timestamp":"2020-10-23T11:20:38.503Z"}
-{"level":"info","message":"Completed exporting footer content type's entries in en-us locale","timestamp":"2020-10-23T11:20:41.952Z"}
-{"level":"info","message":"Completed exporting home content type's entries in en-us locale","timestamp":"2020-10-23T11:20:44.340Z"}
-{"level":"info","message":"Completed exporting header content type's entries in en-us locale","timestamp":"2020-10-23T11:20:47.925Z"}
-{"level":"info","message":"Entry migration completed successfully","timestamp":"2020-10-23T11:20:47.926Z"}
-{"level":"info","message":"Starting labels export","timestamp":"2020-10-23T11:20:47.928Z"}
-{"level":"info","message":"No labels, other than master-labels were found in the Stack","timestamp":"2020-10-23T11:20:49.152Z"}
-{"level":"info","message":"\u001b[32mStack: blt8d166157d47e2a04 has been exported succesfully!\u001b[39m","timestamp":"2020-10-23T11:20:49.153Z"}
-{"level":"info","message":"The log for this is stored at /home/abhishek/Pictures/Wallpapers/lala/syncdata-between-stacks-using-webhooks-and-aws-lambda/stac-data/child-stack-B-data/logs/export","timestamp":"2020-10-23T11:20:49.154Z"}
+{"level":"info","message":"Starting assets export","timestamp":"2020-10-23T12:31:26.369Z"}
+{"level":"info","message":"Downloaded logo-hover.png: blt051a04206c37b3d0 successfully!","timestamp":"2020-10-23T12:31:30.606Z"}
+{"level":"info","message":"Downloaded photo-coffe.jpeg: bltdd251dd7b6799a43 successfully!","timestamp":"2020-10-23T12:31:30.823Z"}
+{"level":"info","message":"Downloaded product-bg.png: blte79cf763fe186402 successfully!","timestamp":"2020-10-23T12:31:31.960Z"}
+{"level":"info","message":"Downloaded variation_3.jpeg: blt243571e90effdc61 successfully!","timestamp":"2020-10-23T12:31:32.223Z"}
+{"level":"info","message":"Batch no 1 of assets is complete","timestamp":"2020-10-23T12:31:32.225Z"}
+{"level":"info","message":"No folders were found in the stack!","timestamp":"2020-10-23T12:31:33.508Z"}
+{"level":"info","message":"\u001b[32mAsset export completed successfully\u001b[39m","timestamp":"2020-10-23T12:31:33.508Z"}
+{"level":"info","message":"Starting locale export","timestamp":"2020-10-23T12:31:33.516Z"}
+{"level":"info","message":"No locales, other than master-locale were found in the Stack","timestamp":"2020-10-23T12:31:34.683Z"}
+{"level":"info","message":"Starting environment export","timestamp":"2020-10-23T12:31:34.685Z"}
+{"level":"info","message":"\u001b[32mAll the environments have been exported successfully\u001b[39m","timestamp":"2020-10-23T12:31:35.900Z"}
+{"level":"info","message":"Starting extension export","timestamp":"2020-10-23T12:31:35.910Z"}
+{"level":"info","message":"\u001b[32mAll the extensions have been exported successfully\u001b[39m","timestamp":"2020-10-23T12:31:36.991Z"}
+{"level":"info","message":"Starting webhooks export","timestamp":"2020-10-23T12:31:36.996Z"}
+{"level":"info","message":"No webhooks were found in the Stack","timestamp":"2020-10-23T12:31:38.253Z"}
+{"level":"info","message":"Starting Global Fields export","timestamp":"2020-10-23T12:31:38.264Z"}
+{"level":"info","message":"No Global Fields were found in the Stack","timestamp":"2020-10-23T12:31:39.507Z"}
+{"level":"info","message":"Starting content type export","timestamp":"2020-10-23T12:31:39.515Z"}
+{"level":"info","message":"\u001b[32mContent type export completed successfully\u001b[39m","timestamp":"2020-10-23T12:31:40.843Z"}
+{"level":"info","message":"Starting entry migration","timestamp":"2020-10-23T12:31:40.848Z"}
+{"level":"info","message":"Completed exporting home content type's entries in en-us locale","timestamp":"2020-10-23T12:31:43.376Z"}
+{"level":"info","message":"Completed exporting header content type's entries in en-us locale","timestamp":"2020-10-23T12:31:46.137Z"}
+{"level":"info","message":"Completed exporting privacy_policy content type's entries in en-us locale","timestamp":"2020-10-23T12:31:50.232Z"}
+{"level":"info","message":"Completed exporting footer content type's entries in en-us locale","timestamp":"2020-10-23T12:31:53.921Z"}
+{"level":"info","message":"Entry migration completed successfully","timestamp":"2020-10-23T12:31:53.923Z"}
+{"level":"info","message":"Starting labels export","timestamp":"2020-10-23T12:31:53.926Z"}
+{"level":"info","message":"No labels, other than master-labels were found in the Stack","timestamp":"2020-10-23T12:31:55.251Z"}
+{"level":"info","message":"\u001b[32mStack: blt93c3dba2b1cc7050 has been exported succesfully!\u001b[39m","timestamp":"2020-10-23T12:31:55.252Z"}
+{"level":"info","message":"The log for this is stored at childB/logs/export","timestamp":"2020-10-23T12:31:55.253Z"}
