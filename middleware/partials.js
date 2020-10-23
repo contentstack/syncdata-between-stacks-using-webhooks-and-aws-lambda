@@ -13,7 +13,7 @@ const Stack = Contentstack.Stack(
   configVars.accessToken,
   configVars.env,
 );
-Stack.setHost('stag-cdn.contentstack.io')
+// Stack.setHost('stag-cdn.contentstack.io')
 
 module.exports = (req, res, next) => {
   // Async library provides a way to make parallel calls contentstack where your header & footer data is stored
@@ -49,7 +49,7 @@ module.exports = (req, res, next) => {
     (error, success) => {
       /**
        *  Results are stored in the below variable i.e for Header it's "header" & for Footer it's "footer" these two variables
-       *  can be used directly into the header and footer html templates using res.locals method of express js
+       *  can be used directly into the header and footer html templates using res.locals method of expressjs
        */
       if (error) return next(error);
       res.locals.header = success[0];

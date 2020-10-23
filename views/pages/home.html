@@ -3,14 +3,11 @@
 {% extends "pages/index.html" %} {% block content %}
 
 <main role="main">
-  <!-- Below section render's the banner of your home page once data is fetched from contentstack -->
-
-  <section
-    class="jumbotron text-center"
-    style="
+  <!-- Below section render's the banner of your home page once the data is fetched from Contentstack -->
+  
+  <section class="jumbotron text-center" style="
   background-image: url({{homeData.hero_banner_section.image.url}});
-"
-  >
+">
     <div class="container">
       <h1>{{homeData.hero_banner_section.heading}}</h1>
       <p class="lead bannerText">
@@ -23,20 +20,17 @@
 
     <div class="row">
       <div class="center-info">
-        <h1 style="text-align: center;">{{homeData.about_section.heading}}</h1>
-        <p>
-          {{homeData.about_section.description}}
-        </p>
+        <h1 style="text-align: center">{{homeData.about_section.heading}}</h1>
+        <p>{{homeData.about_section.description}}</p>
       </div>
     </div>
-    <!-- /.row -->
 
     <hr class="featurette-divider" />
 
     <!-- Below section render's the testimonial section of your home-page-->
 
     <div class="center-info">
-      <h1 style="text-align: center;">{{homeData.group.heading}}</h1>
+      <h1 style="text-align: center">{{homeData.group.heading}}</h1>
     </div>
     <div class="row">
       {% for testimonials in homeData.group.testimonial_detail %}
@@ -44,13 +38,9 @@
         <img class="testimonial-img" src="{{testimonials.image.url}}" />
 
         <h2>{{testimonials.heading}}</h2>
+        <p>{{testimonials.description}}</p>
         <p>
-          {{testimonials.description}}
-        </p>
-        <p>
-          <a class="btn btn-secondary" href="#" role="button"
-            >View details &raquo;</a
-          >
+          <a class="btn btn-secondary" href="#" role="button">View details &raquo;</a>
         </p>
       </div>
       {% endfor %}

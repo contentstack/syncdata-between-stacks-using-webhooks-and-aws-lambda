@@ -14,7 +14,7 @@ const router = express.Router();
 
 /**
  *
- * Below callback function will make a api/sdk call to contentstack and fetch the "home" content-type entry for our home
+ * Below router function will make a api/sdk call to Contentstack and fetch the "home" content-type for our home
  * page
  *
  */

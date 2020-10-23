@@ -14,12 +14,13 @@ const router = express.Router();
 
 /**
  *
- * Below callback function will make a api/sdk call to contentstack and fetch the "privacy_policy" content-type entry for our privacy policy
+ * Below router function will make a api/sdk call to Contentstack and fetch the "privacy_policy" content-type for our privacy
  * page
  *
  */
 
-router.get('/', (req, res) => {  
+router.get('/', (req, res) => {
+  
   const Query = Stack.ContentType(configVars.contentTypeUid.privacyUid).Query();
   Query
     .toJSON()

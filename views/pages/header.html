@@ -3,14 +3,23 @@
 <!-- header variables as mentioned in partials.js file is used to get data into header template -->
 
 <header>
-  <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top" style="box-shadow: 0px 10px 5px #a09f9f80;
-  -webkit-box-shadow: 0px 5px 5px #27272780;
-  -moz-box-shadow: 0px 5px 5px #27272780;
-  padding: 0.1rem 5.8rem;
-">
+  <nav
+    class="navbar navbar-expand-md navbar-light bg-light fixed-top"
+    style="
+      box-shadow: 0px 10px 5px #a09f9f80;
+      -webkit-box-shadow: 0px 5px 5px #27272780;
+      -moz-box-shadow: 0px 5px 5px #27272780;
+      padding: 0.1rem 5.8rem;
+    "
+  >
     <a class="navbar-brand" href="/">
-      <img style="width:181px; height: 60px;" src="{{header.logo.image.url}}" alt="">
-    </a>    <button
+      <img
+        style="width: 181px; height: 60px"
+        src="{{header.logo.image.url}}"
+        alt=""
+      />
+    </a>
+    <button
       class="navbar-toggler"
       type="button"
       data-toggle="collapse"
@@ -25,7 +34,10 @@
       <ul class="navbar-nav ml-auto">
         {% for menuItems in header.navigation_section.navigation_bar %}
         <li class="nav-item">
-          <a class="nav-link" style="color: black; font-weight: bold; font-size: 23px;" href="{{menuItems.link.href}}"
+          <a
+            class="nav-link"
+            style="color: black; font-weight: bold; font-size: 23px"
+            href="{{menuItems.link.href}}"
             >{{menuItems.title}}</a
           >
         </li>
