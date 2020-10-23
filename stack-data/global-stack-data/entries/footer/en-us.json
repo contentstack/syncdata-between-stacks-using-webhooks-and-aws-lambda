@@ -1,1 +1,28 @@
-{"bltc7aa90d03a687c46":{"title":"Footer","url":"#","footer":"Copyright © 2020 Contentstack. All Rights Reserved.","cta":[{"title":"Privacy","href":"/privacy"}],"tags":[],"locale":"en-us","uid":"bltc7aa90d03a687c46","ACL":{},"_version":2,"_in_progress":false,"publish_details":[{"environment":"bltef38dc069b1fb623","locale":"en-us","time":"2020-10-23T10:39:59.024Z","user":"bltd5d70bb484fce3ae","version":2}]}}
+{
+    "bltfea1ccf4550cfc6a": {
+        "title": "Footer",
+        "url": "#",
+        "tags": [],
+        "locale": "en-us",
+        "ACL": {},
+        "uid": "bltfea1ccf4550cfc6a",
+        "_version": 2,
+        "_in_progress": false,
+        "cta": [
+            {
+                "title": "Privacy",
+                "href": "/privacy"
+            }
+        ],
+        "footer": "Copyright © 2020 Contentstack.All Rights Reserved.",
+        "publish_details": [
+            {
+                "environment": "bltb8f6e2ad4119da44",
+                "locale": "en-us",
+                "time": "2020-10-23T13:29:52.530Z",
+                "user": "bltd5d70bb484fce3ae",
+                "version": 2
+            }
+        ]
+    }
+}
