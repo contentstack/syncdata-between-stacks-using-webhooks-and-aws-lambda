@@ -6,7 +6,7 @@ Contentstack is a headless CMS with an API-first approach. It is a CMS that deve
 
 ## About the project
 
-The combination of AWS Lambda and Contentstack webhooks can help us automate the process of syncing or sharing content between stack.It's flexibility allows you to integrate AWS Lambda with other services to automate certain tasks. We will use AWS Lambda with Contentstack Webhooks to create an automated system that will help us to keep our stacks in sync.
+The combination of AWS Lambda and Contentstack Webhooks can help us automate the process of syncing or sharing content between stacks.It's flexibility allows you to integrate AWS Lambda with other services to automate certain tasks. We will use AWS Lambda with Contentstack Webhooks to create an automated system that will help us to keep our stacks in sync.
 
 Below is a sample gif: 
 
