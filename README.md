@@ -17,5 +17,5 @@ This is how the solution works:
 
 Read Contentstack [docs](https://www.contentstack.com/docs/)
 
-Learn about [Sync Data Between Stacks Using Contentstack Webhooks and AWS Lambda]()
+Learn about [Sync Data Between Stacks Using Contentstack Webhooks and AWS Lambda](https://www.contentstack.com/docs/developers/how-to-guides/sync-data-between-stacks-using-contentstack-webhooks-and-aws-lambda/)
 
